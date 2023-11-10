@@ -4,7 +4,6 @@
 
 - 📫 How to reach me aman.c9810@gmail.com
 
-<img align="right" width="350" src="https://thumbs.dreamstime.com/z/student-programming-computer-doing-coding-work-programming-websites-databases-student-programming-computer-doing-182757916.jpg">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
