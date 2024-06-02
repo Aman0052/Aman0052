@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Choudhary</h1>
-- 🌱 I’m currently learning <b>React Js</b>
+- 🌱 I’m currently learning <b>Node Js</b>
 
 - 📫 How to reach me **aman.c9810@gmail.com**
 
